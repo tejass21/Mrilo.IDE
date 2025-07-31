@@ -139,7 +139,7 @@
     "@tiptap/extension-italic": "^3.0.7",
     "@tiptap/extension-link": "^3.0.7",
     "@tiptap/extension-list-item": "^3.0.7",
-    "@tiptap/extension-mention": "^3.0.1",
+    "@tiptap/extension-mention": "^3.0.7",
     "@tiptap/extension-ordered-list": "^3.0.7",
     "@tiptap/extension-paragraph": "^3.0.1",
     "@tiptap/extension-strike": "^3.0.7",
